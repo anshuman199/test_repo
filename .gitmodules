@@ -1,0 +1,4 @@
+[submodule "private-repo"]
+	path = private-repo
+	url = https://github.com/anshuman199/private-repo.git
+	branch = master
