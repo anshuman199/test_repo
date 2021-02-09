@@ -3,8 +3,4 @@
 # Manhattan-II
 
 
-[![Latest Stable Version](http://img.shields.io/github/release/jenssegers/date.svg)](https://packagist.org/packages/jenssegers/date)
-
-
-touch `date +"%Y.%m.%d.md"`
-
+*Updated March 16, 2020*
